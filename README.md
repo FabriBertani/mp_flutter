@@ -1,3 +1,6 @@
+[![Pub Version](https://img.shields.io/pub/v/mp_flutter)](https://pub.dev/packages/mp_flutter)
+[![GitHub](https://img.shields.io/github/license/FabriBertani/mp_flutter)](https://github.com/FabriBertani/mp_flutter/blob/main/LICENSE)
+
 # MercadoPago Flutter
 
 A Flutter package that mix the best of [mercadopago_transparent](https://pub.dev/packages/mercadopago_transparent) and [mercado_pago](https://pub.dev/packages/mercado_pago) packages.
@@ -83,4 +86,4 @@ await mercadoPago.services.tokenWithCard(
 Please, feel free to open an [Issue](https://github.com/FabriBertani/mp_flutter/issues) if you found any bugs or submit a PR.
 
 ## License
-`mp_flutter` is licensed under [MIT]().
+`mp_flutter` is licensed under [MIT](https://github.com/FabriBertani/mp_flutter/blob/main/LICENSE).
