@@ -1,0 +1,13 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    - avoid_print
+    - avoid_empty_else
+    - avoid_void_async
+    - empty_constructor_bodies
+    - void_checks
+    - constant_identifier_names
+
+# Additional information about this file can be found at
+# https://dart.dev/guides/language/analysis-options
